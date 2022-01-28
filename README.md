@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lhnealreilly/lhnealreilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hello! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+
+### I am Liam Neal Reilly
+- A Computer Science Undergraduate Student. 
+- Currently working on some of my cool side projects based on Web Development and web games
+
